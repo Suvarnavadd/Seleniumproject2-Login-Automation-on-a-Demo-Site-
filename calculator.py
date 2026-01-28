@@ -1,5 +1,5 @@
-a = 10
-b = 5
+a = 25
+b = 2
 
 print("Addition:", a + b)
 print("Subtraction:", a - b)
